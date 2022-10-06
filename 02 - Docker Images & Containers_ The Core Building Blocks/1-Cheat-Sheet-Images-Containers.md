@@ -59,3 +59,6 @@ to see continuos log in deattached mode
 
 ` docker cp CONTAINER_NAME:/test dummy `
 
+
+![image](https://user-images.githubusercontent.com/12442613/194402154-dd71d72a-0a86-4b62-9be6-a0116a1a0c31.png)
+
